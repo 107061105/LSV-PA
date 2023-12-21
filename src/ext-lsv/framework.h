@@ -11,7 +11,7 @@
 
 #include <string>
 #include <memory>
-#include "abc_api.h"
+// #include "abc_api.h"
 #include "network.h"
 using NtkPtr = Abc_Ntk_t *;
 using ObjPtr = Abc_Obj_t *;

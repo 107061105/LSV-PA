@@ -15,7 +15,7 @@
 #include "sat/cnf/cnf.h"
 
 
-#include "abc_api.h"
+// #include "abc_api.h"
 #include <string>
 #include <vector>
 
